@@ -7,7 +7,7 @@
 -👋 I am looking for a FrontEnd React Developer job
 - 🧘 I like to write code
 - 🥅 I am constantly learning new things
-- 🏋️‍♀️ I love sport
+- 🏋 I love sport
 - 🎮 I love vidio games
 
 ### My summary:
