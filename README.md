@@ -21,7 +21,7 @@
     <br />
 <img align="left" alt="google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" /> <OlegonTkach101@gmail.com>
     <br />
-    <img align="left" alt="phone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <+380630210567>
+    <img align="left" alt="phone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> +380630210567
     <br />
 ### Languages and Tools:
 
