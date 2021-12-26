@@ -17,10 +17,10 @@
 ### Connect with me:
 
 [<img align="left" alt="OlegTkach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />][google]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
     <br />
-
+[<img align="left" alt="google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />] <OlegonTkach101@gmail.com>
+    <br />
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
