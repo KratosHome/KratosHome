@@ -45,6 +45,6 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KratosHome&show_icons=true&theme=radical" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/oleg-tkach-b84b3a15b/
+[linkedin]: https://www.linkedin.com/in/olegtkach101/
 [google]: OlegonTkach101@gmail.com
 [instagram]: https://www.instagram.com/kratoshome/
