@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
 
-## I'm a June FrontEnd Developer
+## I'm a FrontEnd Developer from React
 
--👋 I am looking for a FrontEnd React Developer job
 - 🧘 I like to write code
 - 🥅 I am constantly learning new things
 - 🏋 I love sport
