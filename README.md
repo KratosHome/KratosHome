@@ -11,7 +11,7 @@
 
 ### My summary:
 
-- https://docs.google.com/document/d/1ZAmSs_MHct-zksZLYwcwVwSgZhDMn_kpuZ8Xu2Z2z9c/edit
+- https://drive.google.com/file/d/1YcVW17vJSKXElVHeuu0yNe8yWv2WeoOt/view?usp=sharing
 
 ### Connect with me:
 
