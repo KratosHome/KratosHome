@@ -9,10 +9,6 @@
 - 🏋 I love sport
 - 🎮 I love vidio games
 
-### My summary:
-
-- https://drive.google.com/file/d/1YcVW17vJSKXElVHeuu0yNe8yWv2WeoOt/view?usp=sharing
-
 ### Connect with me:
 
 [<img align="left" alt="OlegTkach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
