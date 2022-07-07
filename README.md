@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Oleg
 
-
 ![](https://komarev.com/ghpvc/?username=KratosHome)
 
 ## I'm a FrontEnd Developer from React
