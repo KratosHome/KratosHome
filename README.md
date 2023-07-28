@@ -10,7 +10,7 @@
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
-- 🧘 I like to write code
+- 🧘 I like write code
 - 🥅 I am constantly learning new things
 - 🏋 I love sport
 - 🎮 I love vidio games
