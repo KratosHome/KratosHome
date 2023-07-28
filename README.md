@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Oleg
+<h1 align="center">Hi 👋, I'm Oleg</h1>
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
 
