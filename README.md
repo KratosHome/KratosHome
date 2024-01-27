@@ -5,7 +5,7 @@
 <h3 align="center">Front-End React developer from Ukraine</h3>
 
 <div class="image" align="center">
-  <img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
