@@ -48,6 +48,7 @@
   <div align="left">
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KratosHome&langs_count=8&layout=compact&theme=radical" />
         <br />
+    <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KratosHome&show_icons=true&theme=radical" />
   </div>
 </details>
