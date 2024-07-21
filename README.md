@@ -42,6 +42,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 
 <br />
+<br />
 <details>
         <summary>:zap: Statistics:</summary>
   <div align="left">
