@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
 
-<h3 align="center">Front-End React developer from Ukraine</h3>
+<h3 align="center">Front-End developer from Ukraine</h3>
 
 <div class="image" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
