@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
-
+pacholoamit
 <h3 align="center">Front-End developer from Ukraine</h3>
 
 <div class="image" align="center">
@@ -30,31 +30,18 @@
 </div>
 
 ### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,electron,astro,html)](https://skillicons.dev)
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-
-<br />
-<br />
-<details>
-        <summary>:zap: Statistics:</summary>
-  <div align="left">
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KratosHome&langs_count=8&layout=compact&theme=radical" />
-        <br />
-    <br />
-    <br />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KratosHome&show_icons=true&theme=radical" />
-  </div>
-</details>
 
 [linkedin]: https://www.linkedin.com/in/olegtkach101/
 [google]: OlegonTkach101@gmail.com
 [instagram]: https://www.instagram.com/kratoshome/
+
+
+
+[MasterHead](https://github.com/KratosHome)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" />
+</picture>
