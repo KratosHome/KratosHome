@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
-pacholoamit
+
 <h3 align="center">Front-End developer from Ukraine</h3>
 
 <div class="image" align="center">
