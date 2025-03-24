@@ -33,7 +33,7 @@ Passionate Software Developer | Backend Enthusiast
 
   <tr>
     
-        🇬🇧 English - Upper-Intermediate
+        🇬🇧 English - Intermediate
         
   </tr>
 </table>
