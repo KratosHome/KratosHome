@@ -2,7 +2,9 @@
 
 <img src="./assets/github.gif" width="100"/>
 
-<h1 align="center">Hi 👋, I'm Oleg</h1>
+<h1 align="center">Hi 👋, I'm Oleg
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
 
