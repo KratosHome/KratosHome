@@ -14,7 +14,12 @@
 
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Passionate Software Developer | Backend Enthusiast
+
+- 🧘 I like write code
+- 🥅 I am constantly learning new things
+- 🏋 I love sport
+- 🎮 I love vidio games
 
 ### Languages :
 
@@ -28,16 +33,12 @@ Passionate Software Developer | Web Design Enthusiast
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - Upper-Intermediate
         
   </tr>
 </table>
 </div>
 
-- 🧘 I like write code
-- 🥅 I am constantly learning new things
-- 🏋 I love sport
-- 🎮 I love vidio games
 
 ### Connect with me:
 <div align="left">
