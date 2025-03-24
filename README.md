@@ -79,16 +79,6 @@ Passionate Software Developer | Backend Enthusiast
   </td>
   </tr>
 </table>
-
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
-  
-<br>
-
-<div align="center">
-<a href="https://u8views.com/github/KratosHome"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
 <br>
 
 
