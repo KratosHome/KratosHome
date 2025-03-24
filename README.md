@@ -53,6 +53,15 @@ Passionate Software Developer | Backend Enthusiast
   </a>
 </div>
 
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,electron,astro,html)](https://skillicons.dev)
+
+
+[linkedin]: https://www.linkedin.com/in/olegtkach101/
+[google]: OlegonTkach101@gmail.com
+[instagram]: https://www.instagram.com/kratoshome/
+
 ### GitHub Stats :
 
 <table align="center">
@@ -88,15 +97,6 @@ Passionate Software Developer | Backend Enthusiast
 </div>
 
 <br>
-
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,electron,astro,html)](https://skillicons.dev)
-
-
-[linkedin]: https://www.linkedin.com/in/olegtkach101/
-[google]: OlegonTkach101@gmail.com
-[instagram]: https://www.instagram.com/kratoshome/
 
 
 
