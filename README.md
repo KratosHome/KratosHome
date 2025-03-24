@@ -89,13 +89,6 @@ Passionate Software Developer | Backend Enthusiast
 <div align="center">
 <a href="https://u8views.com/github/KratosHome"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
 </div>
-
-<br>
-
-<div align="center">
-<a href="https://www.codewars.com/users/KratosHome"><img src="https://www.codewars.com/users/KratosHome/badges/small">
-</div>
-
 <br>
 
 
