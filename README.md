@@ -1,3 +1,7 @@
+<div id="header" align="center">
+
+<img src="./assets/github.gif" width="100"/>
+
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 
 ![](https://komarev.com/ghpvc/?username=KratosHome)
