@@ -12,6 +12,28 @@
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
+### About Me :
+
+Passionate Software Developer | Web Design Enthusiast
+
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+</table>
+</div>
+
 - 🧘 I like write code
 - 🥅 I am constantly learning new things
 - 🏋 I love sport
